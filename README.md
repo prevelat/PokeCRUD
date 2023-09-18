@@ -1,2 +1,3 @@
 # PokeCRUD
-learning project with Angular an .NET
+
+learning project with Angular and .NET
