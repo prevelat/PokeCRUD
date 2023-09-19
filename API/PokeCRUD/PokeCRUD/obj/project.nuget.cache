@@ -1,16 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "c8by1E0xz0NtQZbgQ1YzoqnNKgUEbYCimWK4JG8Cva0SR6NGS8qRkUrN2D+BAhQQsvH2PaGIm5WDKJpQ8/EdFQ==",
+  "dgSpecHash": "V7xa02pm/cG1IyliI1abvPuAjr9KXU5Er/pMe1N2FK61wjdH/Qen4Uf7lK50AxwW4CaAK0Gh+/id9Y6gyH7p4w==",
   "success": true,
-  "projectFilePath": "c:\\Users\\preve\\Desktop\\Coding\\Undefined\\pokeCRUD\\API\\PokeCRUD\\PokeCRUD\\PokeCRUD.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\preve\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.11\\microsoft.aspnetcore.openapi.7.0.11.nupkg.sha512",
-    "C:\\Users\\preve\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
-    "C:\\Users\\preve\\.nuget\\packages\\microsoft.openapi\\1.4.3\\microsoft.openapi.1.4.3.nupkg.sha512",
-    "C:\\Users\\preve\\.nuget\\packages\\swashbuckle.aspnetcore\\6.5.0\\swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
-    "C:\\Users\\preve\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.5.0\\swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
-    "C:\\Users\\preve\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.5.0\\swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
-    "C:\\Users\\preve\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.5.0\\swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512"
-  ],
+  "projectFilePath": "C:\\Users\\preve\\Desktop\\Coding\\Undefined\\pokeCRUD\\API\\PokeCRUD\\PokeCRUD\\PokeCRUD.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }
