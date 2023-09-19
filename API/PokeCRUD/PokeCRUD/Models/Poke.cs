@@ -12,11 +12,11 @@
         public DateTime BirthDate { get; set; }
 
         // Constructor
-        public Poke(string name, string type, string basicMove, string weakness, int level = 0)
+        public Poke(string name, string type, string weakness, int level = 0)
         {
             Name = name;
             Type = type;
-            Moves = new List<string>{basicMove};
+            Moves = new List<string>{};
             Weakness = weakness;
             Level = level;
             BirthDate = DateTime.Now;

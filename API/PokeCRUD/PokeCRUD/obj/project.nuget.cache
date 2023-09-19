@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "PM27CCLYS5WnRmaltbVNlMCebOtGzarScQAqk/Mud/+Iyg3b+6lCTvLyrt6/cKRg7HYjwLAOMyTEvAyE89/xog==",
+  "dgSpecHash": "fzfl2gTLxctL1GC+fjcsKKm+useQz0sHaa4i+UBR76EJq7f79V22qThBc7g/TPX1tF2G763tx6rLSmW641Yafw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\preve\\Desktop\\Coding\\Undefined\\PokeCRUD\\API\\PokeCRUD\\PokeCRUD\\PokeCRUD.csproj",
+  "projectFilePath": "C:\\Users\\preve\\Desktop\\Coding\\Undefined\\pokeCRUD\\API\\PokeCRUD\\PokeCRUD\\PokeCRUD.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\preve\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\preve\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",
