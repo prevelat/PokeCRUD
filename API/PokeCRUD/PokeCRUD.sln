@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PokeCRUD", "PokeCRUD\PokeCRUD.csproj", "{0BA7A382-4B61-4863-87FA-68BD6F702955}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0BA7A382-4B61-4863-87FA-68BD6F702955}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0BA7A382-4B61-4863-87FA-68BD6F702955}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0BA7A382-4B61-4863-87FA-68BD6F702955}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0BA7A382-4B61-4863-87FA-68BD6F702955}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0AAF2204-5463-421E-B951-B454E8115BC4}
+	EndGlobalSection
+EndGlobal
