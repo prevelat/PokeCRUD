@@ -1,4 +1,4 @@
-﻿using PokeCRUD.Models;
+﻿using PokeCRUD.Models.Domain;
 using Microsoft.EntityFrameworkCore;
 
 namespace PokeCRUD.Data
