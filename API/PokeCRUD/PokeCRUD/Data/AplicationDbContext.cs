@@ -9,6 +9,6 @@ namespace PokeCRUD.Data
         {
         }
 
-        public DbSet<Poke> Poke { get; set; }
+        public DbSet<Poke> Pokes { get; set; }
     }
 }

@@ -22,7 +22,7 @@ namespace PokeCRUD.Migrations
 
             SqlServerModelBuilderExtensions.UseIdentityColumns(modelBuilder);
 
-            modelBuilder.Entity("PokeCRUD.Models.Poke", b =>
+            modelBuilder.Entity("PokeCRUD.Models.Domain.Poke", b =>
                 {
                     b.Property<Guid>("Id")
                         .ValueGeneratedOnAdd()
@@ -33,6 +33,10 @@ namespace PokeCRUD.Migrations
 
                     b.Property<int>("Level")
                         .HasColumnType("int");
+
+                    b.Property<string>("Move")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
 
                     b.Property<string>("Name")
                         .IsRequired()
@@ -48,7 +52,7 @@ namespace PokeCRUD.Migrations
 
                     b.HasKey("Id");
 
-                    b.ToTable("Poke");
+                    b.ToTable("Pokes");
                 });
 #pragma warning restore 612, 618
         }

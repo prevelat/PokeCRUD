@@ -27,9 +27,10 @@ namespace PokeCRUD.Controllers
                 Type = request.Type,
                 Move = request.Move,
                 Weakness = request.Weakness,
+                Level = request.Level
             };
 
-            await dbContext.Poke.AddAsync(poke);
+            await dbContext.Pokes.AddAsync(poke);
             await dbContext.SaveChangesAsync();
 
             //Map Model to DTO
